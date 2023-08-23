@@ -1,2 +1,2 @@
 # git-demo
-### writter by Moon Jaewon
+### written by Moon Jaewon
